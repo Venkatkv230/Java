@@ -1,7 +1,7 @@
 To test for azure cicd pipelines 
 [![Build Status](https://dev.azure.com/VRKami80/test/_apis/build/status/Venkatkv230.Java)](https://dev.azure.com/VRKami80/test/_build/latest?definitionId=2)
 # test the new code  run 
-# Contributing
+# Contributing code run and commit
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
